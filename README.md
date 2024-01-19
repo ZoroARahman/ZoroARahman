@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZoroARahman
+- 👋 Hi, I’m Abdulrahman
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning software engineering 
 - 💞️ I’m looking to collaborate on ...
